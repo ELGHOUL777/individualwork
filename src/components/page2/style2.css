@@ -1,0 +1,44 @@
+.page_2
+{
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+}
+
+.text_container--pg-2
+{
+    margin-top: 6%;
+    margin-left: 14%;
+}
+
+.txt--pg-2
+{
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 48px;
+    line-height: 50px;
+}
+
+.btn--pg-2
+{
+    color: rgb(0, 0, 0);
+    margin-top: -3%;
+    width: 98%;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    background-color: rgb(255, 144, 64);
+    font-family: sans-serif;
+    padding: 1em;
+}
+
+.img--pg-2
+{
+    margin-top: 41.25%;
+    margin-left: -62%;
+    height: 74%;
+    width: 115%;
+}

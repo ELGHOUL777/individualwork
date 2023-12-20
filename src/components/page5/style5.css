@@ -1,0 +1,61 @@
+.page_5
+{
+    height: 100vh;
+    background-color: rgb(255, 144, 64);
+    display: flex;
+    justify-content: space-between;
+}
+
+.img--pg-5
+{
+    margin-top: 18%;
+    margin-left: 35%;
+    height: 75%;
+    width: 100%;
+}
+
+.text_container--pg-5
+{
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    margin-top: 10%;
+    margin-right: 20%;
+}
+
+.txt--pg-5
+{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.txt5-1
+{
+    font-size: 50px;
+    line-height: 55px;
+    text-align: center;
+}
+
+.txt5-2
+{
+    font-size: 20px;
+    line-height: 30px;  
+    text-align: center;
+    margin-top: -10%;
+}
+
+.btn--pg-5
+{
+    width: 96%;
+    border-radius: 24px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    padding: 1em;
+    margin-top: 5%;
+    margin-left: 5%;
+}

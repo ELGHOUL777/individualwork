@@ -1,0 +1,67 @@
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,700&family=DM+Sans&family=Montserrat&display=swap');
+
+
+body
+{
+    margin: 0;
+
+} */
+
+
+
+.page_1
+{
+    height: 100vh;
+    background-image: url('./img1.jpg');
+    background-attachment: scroll;
+    background-size: cover;
+    display: flex;
+}
+
+.hdr1--pg-1
+{
+    font-family: 'Bodoni Moda', serif;
+    color: rgb(255, 255, 255);
+    margin-left: 6.5%;
+    margin-top: 3.5%;
+}
+
+.text_container--pg-1
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 19%;
+    margin-left: -5%;
+    color: rgb(255, 255, 255);
+}
+
+.txt--pg-1
+{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.txt1-1
+{
+    font-size: 15px;  
+}
+
+.txt1-2
+{
+    font-size: 60px;  
+    margin-top: 7%;
+}
+
+.btn--pg-1
+{
+    color: rgb(0, 0, 0);
+    margin-top: 10%;
+    width: 85%;
+    margin-left: 8%;
+    padding: 1em;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    font-family: sans-serif;
+}

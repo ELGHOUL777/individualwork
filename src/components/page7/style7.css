@@ -1,0 +1,133 @@
+.page_7
+{
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px;
+}
+
+.header--pg-7
+{
+    font-size: 17px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+    margin-top: -16%;
+    margin-left: 5%;
+}
+
+.hdr1--pg-7
+{
+    font-family: 'Bodoni Moda', serif;
+}
+
+.txt--pg-7
+{
+    font-weight: 300;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 36px;
+    margin-right: 3%;
+    margin-top: 3%;
+}
+
+.main--pg-7
+{
+    margin-left: 5%;
+    margin-top: 4%;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+}
+
+.main_hdr2--pg-7
+{
+    font-weight: 400;
+    font-style: normal;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.list--pg-7
+{
+    margin-left: -3%;
+    list-style: none;
+    line-height: 27px;
+    font-weight: 300;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 21px;
+    text-align: left;
+}
+
+.link--pg-7
+{   
+    text-decoration: none;
+}
+
+.link--pg-7:hover
+{
+    text-decoration: underline;
+}
+
+.footer_hdr2--pg-7
+{
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-style: normal;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin-left: 5%;
+    margin-top: 6%;
+}
+
+.address_container--pg-7
+{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+    display: flex;
+    font-weight: 400;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.address--pg-7
+{
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 300;
+    font-style: normal;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.adrs7-1
+{
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.adrs7-2
+{
+    margin-right: 57%;
+    margin-top: 1%;
+}
+
+.email--pg-7
+{
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-top: -1%;
+    margin-left: 72%;
+}

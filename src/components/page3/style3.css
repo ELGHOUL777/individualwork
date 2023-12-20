@@ -1,0 +1,39 @@
+.page_3
+{
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+}
+
+.img--pg-3
+{
+    margin-top:25%;
+    margin-left: 35%;
+    height: 75%;
+    width: 100%;
+}
+
+.txt--pg-3
+{
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    margin-top: 42%;
+    margin-left: -110%;
+}
+
+.txt3-1
+{
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 60%;
+}
+
+.txt3-2
+{
+    font-size: 38px;
+    line-height: 41px;
+    margin-top: -3%;
+}

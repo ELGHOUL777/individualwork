@@ -1,0 +1,19 @@
+.page_4
+{
+    height: 100vh;
+    background-image: url('./img4.jpg');
+    background-attachment: scroll;
+    background-size: cover;
+    display: flex;
+}
+
+.txt--pg-4
+{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 39px;
+    line-height: 42px;
+    margin-top: 10%;
+    margin-left: 12%;
+}
